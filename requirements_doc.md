@@ -48,11 +48,11 @@ In addition to the above listed requirements, Prototype 1 will:
 
 **Prototype 2**
 
-Prototype 2 will be the most expensive and will likely require user intervention to set up. It too could be assembled by the media organization and be given to the participants in the effort, or sold as a kit. It will require a more significant documentation effort, particularly if the individual user has secured their home wifi. 
+Prototype 2 will be the most expensive and will likely require user intervention to set up. It too could be assembled by the media organization and be given to the participants in the effort, or sold as a kit. It will require a more significant documentation effort. 
 
 In addition to the above listed requirements, Prototype 2 will:
 
-1. Report data directly to an online data store via API.
+1. Report data directly to an online data store via API and GPRS cellular connection.
 2. Record data to a microSD card as backup in case of wifi failure.
 3. Contain significant documentation for individual users showing them how to set up their device.
 4. Cost less than $40 per unit to produce.
